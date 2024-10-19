@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4376A9F82CC218280096AB1D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4376A9F72CC218280096AB1D /* CircleImage.swift */; };
+		438CE26B2CC457320025BB33 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438CE26A2CC457320025BB33 /* MapView.swift */; };
 		43A940E02CC0AF9E00E2099B /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A940DF2CC0AF9E00E2099B /* LandmarksApp.swift */; };
 		43A940E22CC0AF9E00E2099B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A940E12CC0AF9E00E2099B /* ContentView.swift */; };
 		43A940E42CC0AFA200E2099B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43A940E32CC0AFA200E2099B /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		4376A9F72CC218280096AB1D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		438CE26A2CC457320025BB33 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		43A940DC2CC0AF9E00E2099B /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43A940DF2CC0AF9E00E2099B /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		43A940E12CC0AF9E00E2099B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				43A940DF2CC0AF9E00E2099B /* LandmarksApp.swift */,
+				438CE26A2CC457320025BB33 /* MapView.swift */,
 				43A940E12CC0AF9E00E2099B /* ContentView.swift */,
 				43A940E32CC0AFA200E2099B /* Assets.xcassets */,
 				4376A9F72CC218280096AB1D /* CircleImage.swift */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43A940E22CC0AF9E00E2099B /* ContentView.swift in Sources */,
+				438CE26B2CC457320025BB33 /* MapView.swift in Sources */,
 				43A940E02CC0AF9E00E2099B /* LandmarksApp.swift in Sources */,
 				4376A9F82CC218280096AB1D /* CircleImage.swift in Sources */,
 			);
